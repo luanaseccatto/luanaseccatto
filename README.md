@@ -1,6 +1,6 @@
 ### Olá, eu sou a Luana Seccatto e estou aprendendo programação. 😊
 
-- 📚 Estou aprendendo: HTML, CSS and Javascript.
+- 📚 Estou aprendendo: HTML, CSS e Javascript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
