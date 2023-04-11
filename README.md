@@ -1,6 +1,6 @@
-### Olá, eu sou a Luana Seccatto e estou aprendendo programação. 😊
+### Olá, eu sou a Luana Seccatto e sou desenvolvedora backend python, aprendendo flutter. 😊
 
-- 📚 Estou aprendendo: HTML, CSS e Javascript.
+- 📚 Estou aprendendo: Flutter
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
