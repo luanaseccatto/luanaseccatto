@@ -1,6 +1,10 @@
-### Olá, eu sou a Luana Seccatto e sou desenvolvedora backend python, aprendendo flutter. 😊
+ Hi, I’m Luana Silvério Seccatto
+- 👋 I'm a python backend developer
+- 👀 I’m interested in learn and work backend and apps
+- 🌱 I’m currently learning Django and Flutter
+- 💞️ I always try to study to improve myself in what I already know and acquire new knowledge
+- 📫 How to reach me luana.seccatto@hotmail.com or my instagram @luanaseccatto
 
-- 📚 Estou aprendendo: Flutter
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
