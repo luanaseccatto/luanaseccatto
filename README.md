@@ -1,7 +1,7 @@
  Hi, I’m Luana Silvério Seccatto
-- 👋 I'm a python backend developer
+- 👋 I'm a backend developer
 - 👀 I’m interested in learn and work backend and apps
-- 🌱 I’m currently learning Django and Flutter
+- 🌱 I’m currently learning Node.js, Flutter and .NET
 - 💞️ I always try to study to improve myself in what I already know and acquire new knowledge
 - 📫 How to reach me luana.seccatto@hotmail.com or my instagram @luanaseccatto
 
