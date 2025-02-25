@@ -5,13 +5,6 @@
 - 💞️ I always try to study to improve myself in what I already know and acquire new knowledge
 - 📫 How to reach me luana.seccatto@hotmail.com or my instagram @luanaseccatto
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
   ##
   
   
